@@ -1,4 +1,4 @@
-from src import Neuronio
+from backup import Neuronio
 import pandas as pd
 
 class Treinamento:
